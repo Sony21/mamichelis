@@ -39,7 +39,7 @@ function crearMensajeHTML(mensaje, personaje) {
     var content =`
     <li class="animated fadeIn fast">
         <div class="avatar">
-            <img src="img/avatars/${ personaje }.jpg">
+            <img src="img/avatars/${ personaje }.jpeg">
         </div>
         <div class="bubble-container">
             <div class="bubble">
